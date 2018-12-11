@@ -6,3 +6,5 @@ FHIR Sample project for interns to learn Springboot and swagger
 <img alt="Open in Cloud Shell" src ="http://gstatic.com/cloudssh/images/open-btn.png"></a>
 
 ./mvnw -DskipTests spring-boot:run
+
+browse [URL]/swagger-ui.html?authuser=0
